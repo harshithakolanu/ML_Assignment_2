@@ -54,7 +54,7 @@ Although Logistic Regression achieved the highest AUC score of **0.994719**, SVM
 The app validates an uploaded labeled test CSV, loads saved Joblib pipelines, calculates six metrics, displays a confusion matrix and classification report, compares all models, and downloads predictions. It never calls `fit()`.
 
 ## l. Deployment Link
-`TO BE ADDED AFTER LIVE DEPLOYMENT AND TESTING`
+https://mlassignment2-mnrfnuywvrceaezjsapp5c7.streamlit.app/
 
 ## m. Project Folder Structure
 The repository contains configuration, modular `src/` code, notebook, data folders, model outputs, reports, figures, deployment guides, screenshot instructions, and a submission PDF template.
